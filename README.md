@@ -25,4 +25,5 @@ Booleanos;
 Organização;
 Padronização;
 Escrita.
+
 }]
